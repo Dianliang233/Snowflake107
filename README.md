@@ -17,3 +17,5 @@ Hello, I'm **Snowflake107**. I am from Nepal. I create stuffs.
 
 # Join my Discord Server
 **[Click Here](https://snowflakedev.xyz/discord)**
+
+![Snowflake107](https://avatars3.githubusercontent.com/u/46562212?s=400&u=c88a7dcdfad872266746e145227b7a45c084a5aa&v=4)
