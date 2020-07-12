@@ -2,10 +2,10 @@
 Hello, I'm **Snowflake107**. I am from Nepal. I create stuffs.
 
 # My projects
-## 🎨 **Canvacord** 
+## 🎨 **[Canvacord](https://npmjs.com/package/canvacord)** 
 - Simple & easy to use image manipulation module
 ---------------------------------------------------------
-## 🎧 **Discord YTDL Core** 
+## 🎧 **[Discord YTDL Core](https://npmjs.com/package/discord-ytdl-core)** 
 - YTDL wrapper for discord bots with custom FFmpeg args support
 ---------------------------------------------------------
 
