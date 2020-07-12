@@ -1,16 +1,19 @@
-### Hi there 👋
+# Snowflake107
+Hello, I'm **Snowflake107**. I am from Nepal. I create stuffs.
 
-<!--
-**Snowflake107/Snowflake107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My projects
+## 🎨 **Canvacord** 
+- Simple & easy to use image manipulation module
+---------------------------------------------------------
+## 🎧 **Discord YTDL Core** 
+- YTDL wrapper for discord bots with custom FFmpeg args support
+---------------------------------------------------------
 
-Here are some ideas to get you started:
+# Friends
+- **[@ItzMeRM](https://github.com/ItzMeRM)**
+- **[@Androz2091](https://github.com/Androz2091)**
+- **[@Zyrouge](https://github.com/Zyrouge)**
+- **[@Saif](https://github.com/thanos783)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Join my Discord Server
+**[Click Here](https://snowflakedev.xyz/discord)**
