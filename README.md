@@ -8,6 +8,9 @@ Hello, I'm **Snowflake107**. I am from Nepal. I create stuffs.
 ## 🎧 **[Discord YTDL Core](https://npmjs.com/package/discord-ytdl-core)** 
 - YTDL wrapper for discord bots with custom FFmpeg args support
 ---------------------------------------------------------
+## 📁 **[QuickMongo](https://npmjs.com/package/quickmongo)** 
+- Quick mongodb wrapper for beginners.
+---------------------------------------------------------
 
 # Friends
 - **[@ItzMeRM](https://github.com/ItzMeRM)**
