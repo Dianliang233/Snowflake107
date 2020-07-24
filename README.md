@@ -1,5 +1,5 @@
 # Snowflake107
-Hello, I'm **Snowflake107**. I am from Nepal.
+Hello, I'm **Snowflake107**.
 
 # My projects
 ## 🎨 **[Canvacord](https://npmjs.com/package/canvacord)** 
