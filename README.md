@@ -11,6 +11,9 @@ Hello, I'm **Snowflake107**.
 ## 📁 **[QuickMongo](https://npmjs.com/package/quickmongo)** 
 - Quick mongodb wrapper for beginners.
 ---------------------------------------------------------
+## 🤖 **[cathy.js](https://github.com/Snowflake107/cathy.js)**
+- Simple chatbot package based on AIML.
+---------------------------------------------------------
 
 # Friends
 - **[@ItzMeRM](https://github.com/ItzMeRM)**
